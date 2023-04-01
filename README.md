@@ -16,3 +16,5 @@ Checking the operation of the miner (attempt to restart in case of inactivity).
 Determination of the full screen - the miner will be temporarily suspended during the game
 
 x64 bit depth
+
+i.imgur.com/26Hip4o.png
