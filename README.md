@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/129626749/229315308-8acb60fa-1801-4be6-b0a1-824a68011a60.png)
 # Stone-Miner-Builder-Only-GPU
 GPU Multicoin Mining
 
@@ -17,5 +18,5 @@ Determination of the full screen - the miner will be temporarily suspended durin
 
 x64 bit depth
 
-![image](https://user-images.githubusercontent.com/129626749/229315308-8acb60fa-1801-4be6-b0a1-824a68011a60.png)
+
 
